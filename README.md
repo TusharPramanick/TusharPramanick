@@ -1,37 +1,34 @@
 ### Hi there 👋
-### I'm [Rahul!](https://bio.link/iamrahulmahato) 
+### I'm [Tushar!](https://linktr.ee/Shincreates) 
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-const iamrahulmahato = {
+const TusharPramanick = {
     pronouns: "He" | "Him",
-    code: [Javascript, C++, Java, Python],
+    code: [Javascript, C, Java,],
     askMeAbout: ["web dev", "tech"],
     technologies:{
        frontEnd: {
-            js: ["React","Vue.js"],
-            css: ["materialize", "tailwind"]
+            js: ["React"],
+            css: ["bootstrap",]
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["Django", "Flask"]
         },
-        devOps: ["AWS", "Google Cloud"],
-        databases: ["mongo","sql"],
-        misc: ["Firebase","Socket.IO"]  
+        databases: ["mongo","sql"], 
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
-};
+}; 
 
 
 
 ### Contact me:
 
-[<img align="left" alt="Rahul Mahato | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rahul Mahato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rahul Mahato | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Tushar Pramanick | LinkedIn" width="22px" src="https://www.flaticon.com/premium-icon/linkedin_3536505?term=linkedin%20logo&page=1&position=1&page=1&position=1&related_id=3536505&origin=search" />][linkedin]
+[<img align="left" alt="Tushar Pramanick | Twitter" width="22px" src="https://www.flaticon.com/free-icon/twitter_733579?term=twitter%20logo&page=1&position=1&page=1&position=1&related_id=733579&origin=search" />][twitter]
+[<img align="left" alt="Tushar Pramanick | Instagram" width="22px" src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram%20logo&page=1&position=6&page=1&position=6&related_id=174855&origin=search" />][instagram]
 
-[linkedin]: https://www.linkedin.com/in/iamrahulmahato/
-[twitter]: https://twitter.com/iamrahulmahato
-[instagram]: https://instagram.com/iamrahulmahato
+[linkedin]: https://www.linkedin.com/in/tushar-pramanick/
+[twitter]: https://twitter.com/Tusharcreates
+[instagram]: https://www.instagram.com/shincreates/
