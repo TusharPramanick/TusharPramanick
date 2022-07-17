@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**TusharPramanick/TusharPramanick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const iamrahulmahato = {
+    pronouns: "He" | "Him",
+    code: [Javascript, C++, Java, Python],
+    askMeAbout: ["web dev", "tech"],
+    technologies:{
+       frontEnd: {
+            js: ["React","Vue.js"],
+            css: ["materialize", "tailwind"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["Django", "Flask"]
+        },
+        devOps: ["AWS", "Google Cloud"],
+        databases: ["mongo","sql"],
+        misc: ["Firebase","Socket.IO"]  
+    },
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
