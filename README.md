@@ -2,21 +2,21 @@
 ### I'm [Tushar!](https://linktr.ee/Shincreates) 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 const TusharPramanick = {
     pronouns: "He" | "Him",
     code: [Javascript, C, Java,],
-    askMeAbout: ["web dev", "tech"],
+    askMeAbout: ["web dev", "tech", "UX/UI"],
     technologies:{
        frontEnd: {
             js: ["React"],
             css: ["bootstrap",]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["node", "express"]
         },
-        databases: ["mongo","sql"], 
+        databases: ["mongo","sql"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 }; 
