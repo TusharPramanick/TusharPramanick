@@ -25,9 +25,10 @@ const TusharPramanick = {
 
 ### Contact me:
 
-[<img align="left" alt="Tushar Pramanick | LinkedIn" width="22px" src="https://www.flaticon.com/premium-icon/linkedin_3536505?term=linkedin%20logo&page=1&position=1&page=1&position=1&related_id=3536505&origin=search" />][linkedin]
-[<img align="left" alt="Tushar Pramanick | Twitter" width="22px" src="https://www.flaticon.com/free-icon/twitter_733579?term=twitter%20logo&page=1&position=1&page=1&position=1&related_id=733579&origin=search" />][twitter]
-[<img align="left" alt="Tushar Pramanick | Instagram" width="22px" src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram%20logo&page=1&position=6&page=1&position=6&related_id=174855&origin=search" />][instagram]
+[<img align="left" alt="Tushar Pramanick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Tushar Pramanick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Tushar Pramanick | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [linkedin]: https://www.linkedin.com/in/tushar-pramanick/
 [twitter]: https://twitter.com/Tusharcreates
