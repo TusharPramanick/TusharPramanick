@@ -37,4 +37,4 @@ const tusharpramanick = {
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TusharPramanick&theme=react" alt="GitHub Streak" /></a>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=akinghill&label=Profile%20views&color=61DAFB&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=TusharPramanick&label=Profile%20views&color=61DAFB&style=flat)
