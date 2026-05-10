@@ -29,7 +29,7 @@ const tusharpramanick = {
         misc: ["Firebase","Socket.IO"]  
     },
     funFact: "Q. How did the first program die?
-              A. It was executed."
+              A. It was executed 😂"
 };
 ```
 
