@@ -34,10 +34,7 @@ const tusharpramanick = {
 ```
 
 **<h3 align="left">GitHub Stats</h3>**
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TusharPramanick&theme=react" alt="GitHub Streak" /></a>
 
-<p align="left">
-  <img width="48%" src="https://streak-stats.vercel.app?user=akinghill&theme=react" alt="GitHub Streak" />
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akinghill&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" /> -->
-</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=akinghill&label=Profile%20views&color=61DAFB&style=flat)
