@@ -13,7 +13,7 @@
 ```javascript
 const tusharpramanick = {
     pronouns: "He" | "Him",
-    code: [JavaScript, Java, Python],
+    code: ["JavaScript", "Java", "Python"],
     askMeAbout: ["web dev", "Data Analysis"],
     technologies:{
        frontEnd: {
