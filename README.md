@@ -20,11 +20,11 @@ const tusharpramanick = {
             js: ["jQuery", "React"],
             css: ["bootstrap"]
         },
-        backEnd: {
+ /*     backEnd: {
             js: ["node"]
-        },
-        devOps: ["Docker", "Jenkins"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        },  */
+        //devOps: ["Docker", "Jenkins"],
+        databases: ["MySQL", "PostgreSQL"],
         Data Analysis: ["Pandas", "Matplotlib", "Seaborn", "Plotly", "Power BI"]
         other: ["Git", "Linux"]
     },
