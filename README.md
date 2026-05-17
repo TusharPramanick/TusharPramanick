@@ -16,14 +16,14 @@ const tusharpramanick = {
     code: ["JavaScript", "Java", "Python"],
     askMeAbout: ["web dev", "Data Analysis"],
     technologies:{
-       frontEnd: {
+        frontEnd: {
             js: ["jQuery", "React"],
             css: ["bootstrap"]
         },
- /*     backEnd: {
+        backEnd: {
             js: ["node"]
-        },  */
-        //devOps: ["Docker", "Jenkins"],
+        },
+        devOps: ["Docker", "Jenkins"],
         databases: ["MySQL", "PostgreSQL"],
         Data Analysis: ["Pandas", "Matplotlib", "Seaborn", "Plotly", "Power BI"]
         other: ["Git", "Linux"]
