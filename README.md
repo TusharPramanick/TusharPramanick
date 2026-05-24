@@ -21,7 +21,7 @@ const tusharpramanick = {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node"]
+            js: ["node", "PHP"]
         },
         devOps: ["Docker", "Jenkins"],
         databases: ["MySQL", "PostgreSQL"],
