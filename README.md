@@ -23,7 +23,6 @@ const tusharpramanick = {
         backEnd: {
             js: ["node", "PHP"]
         },
-        devOps: ["Docker", "Jenkins"],
         databases: ["MySQL", "PostgreSQL"],
         Data Analysis: ["Pandas", "Matplotlib", "Seaborn", "Plotly", "Power BI"]
         other: ["Git", "Linux"]
